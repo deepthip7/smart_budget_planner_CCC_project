@@ -63,10 +63,15 @@ O(N × W)
 Smart-Budget-Planner
 │
 ├── knapsack.py # Core DP logic
+
 ├── items_data.py # Sample items dataset
-├── cli_version.py # CLI version (terminal-based)
+
+├── cli_version.py # CLI version 
+
 ├── main.py # Tkinter GUI application
-├── index.html # Web version (optional UI)
+
+├── index.html # Web version
+
 └── README.md # Project documentation
 
 ---
