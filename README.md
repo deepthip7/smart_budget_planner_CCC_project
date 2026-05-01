@@ -62,6 +62,7 @@ O(N × W)
 ##  Project Structure
 Smart-Budget-Planner
 │
+
 ├── knapsack.py # Core DP logic
 
 ├── items_data.py # Sample items dataset
